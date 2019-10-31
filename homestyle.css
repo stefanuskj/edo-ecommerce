@@ -1,0 +1,27 @@
+body {
+	background-image: url("background/background4.jpg");
+}
+.row2 {
+	margin-top:20px;
+}
+#menu1{
+	background-color:grey;
+	height:295px;
+	width:279px;
+	margin-left:-15px;
+	margin-top:0px;
+}
+#menu2{
+	background-color:grey;
+	height:295px;
+	width:279px;
+	margin-left:-15px;
+}
+#menu3{
+	background-color:black;
+	opacity:0.80;
+	filter:alpha(opacity=80);
+	height:295px;
+	width:279px;
+	margin-left:-15px;
+}

@@ -1,0 +1,17 @@
+body {background-image:url(background4.jpg);
+background-size:cover;
+font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+font-size: 14px;
+color:#819D2F;}
+#googleMap
+{
+margin-left:50px;
+position:absolute;
+}
+#im1
+{
+	margin-top:100px;
+	margin-left:-20px;
+	width:25px;
+	height:25px;
+}
